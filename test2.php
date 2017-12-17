@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>Jolan Driving School</title>
-<meta name="Description" content="Jolan Driving School" />
+<meta name="Description" content="Jolan Driving School - so is this..." />
 <meta name="Keywords" content="driving, lessons, school, instructor" />
 <meta name="Robots" content="all" />
 <meta name="Language" content="en-gb" />
