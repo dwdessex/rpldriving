@@ -8,7 +8,7 @@
 <!-- InstanceEndEditable -->
 <meta name="Robots" content="all" />
 <meta name="Language" content="en-gb" />
-<meta name="Author" content="Dyno Web Design" />
+<meta name="Author" content="Dyno Web" />
 <meta name="geo.country" content="UK" />
 <meta name="geo.placename" content="Notting Hill, Hammersmith, Shepherds Bush, West London, Ladbroke Grove, White City, Holland Park, Kensington, Kilburn" />
 <link href="/Templates/css.css" rel="stylesheet" type="text/css" />
