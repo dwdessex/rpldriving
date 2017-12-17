@@ -1,0 +1,36 @@
+<Files .htaccess>
+deny from all
+</Files>
+RewriteEngine on 
+RewriteBase / 
+RewriteCond %{HTTP_USER_AGENT} ^EmailSiphon [OR] 
+RewriteCond %{HTTP_USER_AGENT} ^EmailWolf [OR] 
+RewriteCond %{HTTP_USER_AGENT} ^ExtractorPro [OR] 
+RewriteCond %{HTTP_USER_AGENT} ^Mozilla.*NEWT [OR] 
+RewriteCond %{HTTP_USER_AGENT} ^Crescent [OR] 
+RewriteCond %{HTTP_USER_AGENT} ^CherryPicker [OR]
+RewriteCond %{HTTP_USER_AGENT} ^[Ww]eb[Bb]andit [OR] 
+RewriteCond %{HTTP_USER_AGENT} ^WebEMailExtrac.* [OR] 
+RewriteCond %{HTTP_USER_AGENT} ^NICErsPRO [OR] 
+RewriteCond %{HTTP_USER_AGENT} ^Teleport [OR] 
+RewriteCond %{HTTP_USER_AGENT} ^Zeus.*Webster [OR] 
+RewriteCond %{HTTP_USER_AGENT} ^Microsoft.URL [OR] 
+RewriteCond %{HTTP_USER_AGENT} ^Wget [OR] 
+RewriteCond %{HTTP_USER_AGENT} ^LinkWalker [OR]
+RewriteCond %{HTTP_USER_AGENT} ^sitecheck.internetseer.com [OR]
+RewriteCond %{HTTP_USER_AGENT} ^ia_archiver [OR]
+RewriteCond %{HTTP_USER_AGENT} ^DIIbot [OR]
+RewriteCond %{HTTP_USER_AGENT} ^psbot [OR]
+RewriteCond %{HTTP_USER_AGENT} ^EmailCollector 
+RewriteRule ^.* - [F]
+RewriteCond %{HTTP_REFERER} ^http://www.iaea.org$ 
+rewritecond %{http_host} ^jolandrivingschool.co.uk [nc]
+rewriterule ^(.*)$ http://www.jolandrivingschool.co.uk/$1 [r=301,nc]
+ErrorDocument 404 /404.html
+
+redirect 301 /contact.html http://www.jolandrivingschool.co.uk
+redirect 301 /links.html http://www.jolandrivingschool.co.uk
+redirect 301 /test.html http://www.jolandrivingschool.co.uk
+redirect 301 /prices.html http://www.jolandrivingschool.co.uk
+redirect 301 /know.html http://www.jolandrivingschool.co.uk
+redirect 301 /?refresh=1 http://www.jolandrivingschool.co.uk
