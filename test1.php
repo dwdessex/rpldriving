@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/template.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<!-- InstanceBeginEditable name="tags" --><title>Jolan Driving School</title>
+<!-- InstanceBeginEditable name="tags" --><title>Jolan Driving School - this is a test</title>
 <meta name="Description" content="Jolan Driving School" />
 <meta name="Keywords" content="driving, lessons, school, instructor" />
 <!-- InstanceEndEditable -->
