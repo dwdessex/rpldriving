@@ -10,7 +10,7 @@
 <meta name="Language" content="en-gb" />
 <meta name="Author" content="Dyno Web Design" />
 <meta name="geo.country" content="UK" />
-<meta name="geo.placename" content="Notting Hill, Hammersmith, Shepherds Bush, Acton, West London, Ladbroke Grove, White City, Holland Park, Kensington, Kilburn" />
+<meta name="geo.placename" content="Notting Hill, Hammersmith, Shepherds Bush, West London, Ladbroke Grove, White City, Holland Park, Kensington, Kilburn" />
 <link href="/Templates/css.css" rel="stylesheet" type="text/css" />
 
 <script type="text/javascript">
